@@ -1,13 +1,13 @@
 # Wine-glass-3D-model
 Wine glass 3D model made with C++ and the FreeGLUT library.<br/>
-Keys:
-[a] : left rotation around x-axis.
-[z] : right rotation around x-axis.
-[s] : left rotation around y-axis.
-[x] : right rotation around y-axis.
-[d] : left rotation around z-axis.
-[c] : right rotation around z-axis.
-[g] : skeleton mode.
-[h] : regular mode.
-[j] : stops showing surface normals.
-[k] : shows surface normals. 
+Keys:<br/>
+[a] : left rotation around x-axis.<br/>
+[z] : right rotation around x-axis.<br/>
+[s] : left rotation around y-axis.<br/>
+[x] : right rotation around y-axis.<br/>
+[d] : left rotation around z-axis.<br/>
+[c] : right rotation around z-axis.<br/>
+[g] : skeleton mode.<br/>
+[h] : regular mode.<br/>
+[j] : stops showing surface normals.<br/>
+[k] : shows surface normals.<br/>
