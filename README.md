@@ -1,5 +1,5 @@
 # Wine-glass-3D-model
-Wine glass 3D model made with C++ and the FreeGLUT library.
+Wine glass 3D model made with C++ and the FreeGLUT library.<br/>
 Keys:
 [a] : left rotation around x-axis.
 [z] : right rotation around x-axis.
